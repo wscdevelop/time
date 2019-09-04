@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35b34a2b-61dd-4c50-9d84-f43fc4e47990" name="Default Changelist" comment="第一次">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__error_error.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/time.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/time01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/time01/time01.iml" afterDir="false" />
+    <list default="true" id="35b34a2b-61dd-4c50-9d84-f43fc4e47990" name="Default Changelist" comment="第er次">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time01/src/com/wsc/core/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/time01/src/com/wsc/core/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time01/time01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/time01/time01.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/time01/target/" />
@@ -26,16 +19,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/time01/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            <state relative-caret-position="222">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/time01/src/com/wsc/core/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,6 +53,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/time01/pom.xml" />
+        <option value="$PROJECT_DIR$/time01/src/com/wsc/core/Test.java" />
       </list>
     </option>
   </component>
@@ -77,13 +87,6 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-15" />
     <option name="width" value="1940" />
@@ -112,6 +115,36 @@
               <item name="time" type="b2602c69:ProjectViewProjectNode" />
               <item name="time" type="462c0819:PsiDirectoryNode" />
               <item name="time01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="time" type="b2602c69:ProjectViewProjectNode" />
+              <item name="time" type="462c0819:PsiDirectoryNode" />
+              <item name="time01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="time" type="b2602c69:ProjectViewProjectNode" />
+              <item name="time" type="462c0819:PsiDirectoryNode" />
+              <item name="time01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="time" type="b2602c69:ProjectViewProjectNode" />
+              <item name="time" type="462c0819:PsiDirectoryNode" />
+              <item name="time01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wsc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="time" type="b2602c69:ProjectViewProjectNode" />
+              <item name="time" type="462c0819:PsiDirectoryNode" />
+              <item name="time01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wsc" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -156,24 +189,40 @@
       <updated>1566096222034</updated>
       <workItem from="1566096226886" duration="607000" />
       <workItem from="1566097289349" duration="683000" />
-      <workItem from="1567584103554" duration="428000" />
+      <workItem from="1567584103554" duration="1284000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次">
+      <created>1567584547857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567584547857</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第er次">
+      <created>1567585243285</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567585243286</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1718000" />
+    <option name="totallyTimeSpent" value="2574000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
@@ -202,7 +251,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次" />
+    <MESSAGE value="第er次" />
+    <option name="LAST_COMMIT_MESSAGE" value="第er次" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__error_error.xml">
@@ -214,8 +264,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/time01/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        <state relative-caret-position="222">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time01/src/com/wsc/core/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
         </state>
       </provider>
     </entry>

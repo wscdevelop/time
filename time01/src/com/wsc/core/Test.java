@@ -8,4 +8,7 @@ package com.wsc.core;
  * @Date 2019/9/4 16:16
  **/
 public class Test {
+    public static void main(String[] args) {
+
+    }
 }
