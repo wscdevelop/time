@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35b34a2b-61dd-4c50-9d84-f43fc4e47990" name="Default Changelist" comment="第er次">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/time01/src/com/wsc/core/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/time01/src/com/wsc/core/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/time01/time01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/time01/time01.iml" afterDir="false" />
-    </list>
+    <list default="true" id="35b34a2b-61dd-4c50-9d84-f43fc4e47990" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/time01/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +24,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/time01/src/com/wsc/core/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/time01/src/com/wsc/core/Test12.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
               <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
@@ -54,6 +59,7 @@
       <list>
         <option value="$PROJECT_DIR$/time01/pom.xml" />
         <option value="$PROJECT_DIR$/time01/src/com/wsc/core/Test.java" />
+        <option value="$PROJECT_DIR$/time01/src/com/wsc/core/Test12.java" />
       </list>
     </option>
   </component>
@@ -105,11 +111,6 @@
             <path>
               <item name="time" type="b2602c69:ProjectViewProjectNode" />
               <item name="time" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="time" type="b2602c69:ProjectViewProjectNode" />
-              <item name="time" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="time" type="b2602c69:ProjectViewProjectNode" />
@@ -189,7 +190,7 @@
       <updated>1566096222034</updated>
       <workItem from="1566096226886" duration="607000" />
       <workItem from="1566097289349" duration="683000" />
-      <workItem from="1567584103554" duration="1284000" />
+      <workItem from="1567584103554" duration="1546000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1567584547857</created>
@@ -205,24 +206,31 @@
       <option name="project" value="LOCAL" />
       <updated>1567585243286</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第er次">
+      <created>1567585521823</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567585521823</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2574000" />
+    <option name="totallyTimeSpent" value="2836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
@@ -231,7 +239,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -270,6 +278,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/time01/src/com/wsc/core/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time01/src/com/wsc/core/Test12.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
